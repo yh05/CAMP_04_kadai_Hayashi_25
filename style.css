@@ -1,0 +1,48 @@
+.header-item{
+    display: flex;
+    justify-content: center; 
+    height: auto;
+}
+
+.start{
+    display: flex;    
+    justify-content: center;
+}
+
+.question-text{
+    display: flex;    
+    justify-content: center; 
+    height: auto;
+}
+
+
+.me{
+    display: flex;    
+    justify-content: center; 
+    height: auto;
+}
+
+.game{
+
+    display: flex;    
+    justify-content: center; 
+    height: auto;
+}
+
+.shohai{
+    display: flex;    
+    justify-content: center; 
+    
+}
+
+.shohai2{
+    display: flex;    
+    justify-content: center; 
+    
+}
+
+.renzoku{
+    display: flex;    
+    justify-content: center; 
+    
+}
